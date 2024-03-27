@@ -716,6 +716,7 @@
 * [CyberCAT-SimpleGUI](https://github.com/Deweh/CyberCAT-SimpleGUI) - Cyberpunk 2077 Save Editor
 * [Kirigiri's Palword](https://rentry.co/FMHYBase64#kirigiris-palword) - Palworld Releases
 * [Palworld Host Save Fix](https://github.com/xNul/palworld-host-save-fix) - Palworld Save Bug Fix
+* [Palworld.gg](https://palworld.gg/), [PalworldTrainer.com](https://palworldtrainer.com/) or [Paldb.cc](https://paldb.cc/) - Palworld Databases
 * [The Halo Archive](https://discord.gg/feB7RgAHBh) or [405th](https://www.405th.com/) - Halo Assets Archive
 * [Stardew.app](https://stardew.app/) - Stardew Valley Progress Tracker
 * [Trackmania Replay Viewer](https://gbx.bigbang1112.cz/tool/replay-viewer ) - View Trackmania Replays
@@ -731,6 +732,7 @@
 
 ## ▷ MOBA Tools
 
+* ⭐ **[League of Legends Wiki](https://leagueoflegends.fandom.com/wiki/League_of_Legends_Wiki)**
 * ⭐ **[OP.GG](https://www.op.gg/)** - LoL Player Background Check
 * ⭐ **[U.GG](https://u.gg/)** or [LoLAlytics](https://lolalytics.com/) / [Discord](https://discord.com/invite/zKyaZ6w) - LoL Champion Builds / Tiers
 * ⭐ **[Gol.gg](https://gol.gg/esports/home/)** - LoL Competitive Stats, All Regions
@@ -826,10 +828,12 @@
 
 ## ▷ Pokémon Tools
 
-* 🌐 **[Awesome PokemonGO](https://github.com/tobiasbueschel/awesome-pokemon)** - PokemonGO Resources
+* 🌐 **[Awesome Pokémon](https://github.com/tobiasbueschel/awesome-pokemon)** - Curated List of Pokémon Resources
+* ⭐ **[Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Main_Page)** - Pokémon Wiki
+* ⭐ **[Serebii.net](https://www.serebii.net/)**, [Pokémon Database](https://pokemondb.net/) or [PocketMonsters.net](https://pocketmonsters.net/) - Pokémon Databases
 * ⭐ **[PokeList](https://pokemonlist.netlify.app/)**, [Pokedex](https://github.com/skydoves/Pokedex) or [PokeAPI](https://pokeapi.co/) - Pokedexes
 * ⭐ **[Pokémon Typechart](https://pokemondb.net/type)** - Pokémon Type Charts / [Image](https://img.pokemondb.net/images/typechart.png)
-* ⭐ **[PokeMMO](https://pokemmo.com/en/)**, [DelugeRPG](https://www.delugerpg.com/), [Pokemon Legends](https://www.pokemongods.com/) or [PokemonRevolution](https://pokemonrevolution.net/) - Pokémon MMOs
+* ⭐ **[PokeMMO](https://pokemmo.com/en/)**, [DelugeRPG](https://www.delugerpg.com/), [Pokémon Legends Gods](https://www.pokemongods.com/) or [Pokémon Revolution Online](https://pokemonrevolution.net/) - Pokémon MMOs
 * ⭐ **[Pokémon Showdown](https://pokemonshowdown.com/)** - Online Pokémon Battles
 * [PokeCommunity](https://www.pokecommunity.com/) - Pokémon Community
 * [Project Pokémon](https://projectpokemon.org/) - Pokémon Tools, Exploits, Saves etc.
@@ -842,11 +846,13 @@
 * [Universal Pokémon Randomizer ZX](https://github.com/Ajarmar/universal-pokemon-randomizer-zx/) - Randomize Pokémon (works for GBA through 3DS)
 * [NYCPokeMap](https://nycpokemap.com/) - Real-time Pokémon Go Map for NYC
 * [PkmnCards](https://pkmncards.com/) - Pokémon Card Database
+* [unite-db](https://unite-db.com/) - Pokémon Unite Database
 
 ***
 
 ## ▷ Counter-Strike Tools
 
+* ⭐ **[Counter-Strike Wiki](https://counterstrike.fandom.com/wiki/Counter-Strike_Wiki)**
 * ⭐ **[CsWarzOnE](https://cswarzone.com/)** - Counter-Strike Downloads
 * [csgo-mm-server-picker](https://github.com/Jyben/csgo-mm-server-picker) - CS:GO Server Picker
 * [Simple Radar](https://readtldr.gg/simpleradar) - Improved CS:GO Radar
@@ -862,6 +868,7 @@
 * 🌐 **[GTAAll](https://www.gtaall.com/)**, [GTAInside](https://gtainside.com/), [GameModding](https://gamemodding.com/), [GTAGarage](https://gtagarage.com/) or [LibertyCity](https://libertycity.net/) - GTA Mods, Cheats, Walkthroughs & More
 * 🌐 **[GTA5-Mods](https://www.gta5-mods.com/)** - GTAV Mods
 * 🌐 **[MixMods](https://www.mixmods.com.br/)** - GTASA Mods
+* ⭐ **[Grand Theft Wiki](https://www.grandtheftwiki.com/Main_Page)** or **[GTA Wiki](https://gta.fandom.com/wiki/Main_Page)** - GTA Wiki
 * ⭐ **[FiveM](https://fivem.net/)** - Modded GTAV Servers
 * ⭐ **[Rainbomizer](https://rainbomizer.com/)** - GTA Randomizer Mods
 * [GTA 5 Grand Roleplay](https://gta5grand.com/) - GTAV Roleplay Server
@@ -873,6 +880,7 @@
 
 ## ▷ Doom Tools
 
+* ⭐ **[Doom Wiki](https://doomwiki.org/wiki/Entryway)**
 * ⭐ **[ZDoom](https://www.zdoom.org/downloads)** - Doom Source Port
 * ⭐ **[ZDaemon](https://www.zdaemon.org/)**, **[Doomseeker](https://doomseeker.drdteam.org/)**, [oDamex](https://odamex.net/), [DoomUtils](http://doomutils.ucoz.com/) or [Zandronum](https://zandronum.com/) - Online Multiplayer Doom
 * [Realm667](https://www.realm667.com/index.php/en/) - Doom Mods
@@ -886,6 +894,7 @@
 
 ## ▷ Mario Kart Tools
 
+* ⭐ **[Mario Kart Wiki](https://mariokart.fandom.com/wiki/Mario_Kart_Racing_Wiki:Main_Menu)** or **[Super Mario Wiki](https://www.mariowiki.com/)**
 * ⭐ **[Retro Rewind](https://wiki.tockdom.com/wiki/Retro_Rewind)** - Retro MKW Tracks / Multiplayer
 * ⭐ **[CTGP Revolution](https://www.chadsoft.co.uk/)** - Custom MKW Tracks / Multiplayer
 * ⭐ **[MKWRs](https://mkwrs.com)** or [MKLeaderboards](https://www.mkleaderboards.com/) - Mario Kart Records / Videos
@@ -946,6 +955,7 @@
 ## ▷ Roblox Tools
 
 * 🌐 **[Roblox Archive](https://archive.roblonium.com/)** - Roblox Client Archive
+* ⭐ **[Roblox Wiki](https://roblox.fandom.com/wiki/Roblox_Wiki)**
 * ⭐ **[Roblox Account Manager](https://github.com/ic3w0lf22/Roblox-Account-Manager)** - Roblox Account Manager
 * ⭐ **[Rolimon's](https://www.rolimons.com/games)** or [RoMonitor Stats](https://romonitorstats.com/) - Roblox Experience Stats
 * ⭐ **[Bloxstrap](https://github.com/pizzaboxer/bloxstrap)** - Roblox Player Bootstrapper
@@ -963,6 +973,8 @@
 
 * 🌐 **[Paimon.moe](https://paimon.moe/)** or [Honey Impact](https://genshin.honeyhunterworld.com/) - Genshin Impact Resources / Tools
 * 🌐 **[Honkai.gg](https://honkai.gg/)** - Honkai Star Rail Resources / Tools
+* ⭐ **[Genshin Impact Wiki](https://genshin-impact.fandom.com/wiki/Genshin_Impact_Wiki)**
+* ⭐ **[Honkai Star Rail Wiki](https://honkai-star-rail.fandom.com/wiki/Honkai:_Star_Rail_Wiki)**
 * ⭐ **[Prydwen](https://www.prydwen.gg/)** - Gacha Game Guides / [Discord](https://discord.gg/prydwen)
 * ⭐ **[Keqingmains](https://keqingmains.com/)** - Genshin Guides
 * [/r/GachaGaming](https://www.reddit.com/r/gachagaming/) - Gacha Games Subreddit
@@ -1304,6 +1316,7 @@
 * [Factle](https://factle.app/) - Fact Style Wordle
 * [LoLdle](https://loldle.net/) - League of Legends Wordle
 * [Minecraftle](https://minecraftle.zachmanson.com/) - Minecraft Crafting Style Wordle
+* [Squirdle](https://squirdle.fireblend.com/) - Pokémon Style Wordle
 
 ***
 
