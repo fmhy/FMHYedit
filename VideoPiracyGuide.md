@@ -434,6 +434,8 @@
 * [MMAStreamLinks](https://red3.mmastreamlinks.com/) - MMA
 * [LaCasadelTikiTaka](https://www.lacasadeltikitaka.net/) - Soccer / MMA
 * [Football](https://socceronline.me/) - Soccer
+* [Footybite](https://www1.footybite.cc/) - Soccer
+* [Euro2024Live.Stream](https://www.euro2024live.stream/) - Soccer
 * [StarPlay](https://3rd-delta.vercel.app/) - Soccer / Cricket
 * [MLB66](https://mlb66.ir/) - Baseball
 * [MLBshows](https://mlbshow.com/) - Baseball
